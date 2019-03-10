@@ -1,0 +1,20 @@
+﻿  Lab_01.Task_05.cpp
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(50): error C3867: "Mnozhina::getM": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(50): error C2109: для индекса требуется массив или указатель
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(50): warning C4473: "printf": передано недостаточно аргументов для строки формата
+  c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(50): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+  c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(50): note: отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(56): error C3867: "Mnozhina::getM": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(56): error C2109: для индекса требуется массив или указатель
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(57): error C3867: "Mnozhina::getM": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(57): error C2109: для индекса требуется массив или указатель
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(57): warning C4473: "printf": передано недостаточно аргументов для строки формата
+  c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(57): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+  c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(57): note: отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(65): error C3867: "Mnozhina::getM": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(65): error C2109: для индекса требуется массив или указатель
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(67): error C3867: "Mnozhina::getM": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(67): error C2109: для индекса требуется массив или указатель
+c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(67): warning C4473: "printf": передано недостаточно аргументов для строки формата
+  c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(67): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+  c:\users\xiaomi\source\repos\project9\project9\lab_01.task_05.cpp(67): note: отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
